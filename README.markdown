@@ -11,3 +11,5 @@ Panic peeps: I wouldn't need to rely on your internal stuff if you did one or bo
 * Allow AppleScript `save someSplit` to work.
 
 * Get your `-[NSDocument isDocumentEdited]` implementation working.
+
+Install it in `~/Library/Application Support/Coda/Plug-ins`.
