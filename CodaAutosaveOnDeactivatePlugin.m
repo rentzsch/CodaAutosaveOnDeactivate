@@ -6,7 +6,7 @@
     self = [super init];
     if (self) {
         NSString *codaVersion = [[[NSBundle mainBundle] infoDictionary] objectForKey:@"CFBundleVersion"];
-        if ([codaVersion isEqualToString:@"1.6.4"]) {
+        if ([codaVersion hasPrefix:@"1.6."]) {
             [[NSNotificationCenter defaultCenter] addObserver:self
                                                      selector:@selector(appDidResignActive:)
                                                          name:NSApplicationDidResignActiveNotification
