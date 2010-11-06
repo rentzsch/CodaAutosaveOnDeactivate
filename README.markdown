@@ -4,7 +4,7 @@ I got tired of forgetting to save all my splits (I usually run the max number of
 
 This plugin was fueled by jealousy of [@violasong](https://twitter.com/violasong)'s use of TextMate's **Prefs > Advanced > Saving > Save files when focus is lost** setting.
 
-Rev-locked to Coda 1.6.x because I take advantage of private  undocumented reverse-engineered internal Coda architecture.
+Rev-locked to Coda 1.6.x - 1.7.x because I take advantage of private undocumented reverse-engineered internal Coda architecture.
 
 Panic peeps: I wouldn't need to rely on your internal stuff if you did one or both things:
 
